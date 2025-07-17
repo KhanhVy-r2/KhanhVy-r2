@@ -32,7 +32,7 @@
 |**ML/DL**|![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)|
 |**Other**|![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)|
 
-### 🎯Goals: **Fullstack Dev** and **AI Engineer**
+
 ----------------------------------------------------
 ## 📊 Performance Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KhanhVy-r2&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
